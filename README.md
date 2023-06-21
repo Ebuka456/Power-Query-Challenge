@@ -9,7 +9,7 @@ Imagine you have a jumble of numbers, names, and dates on a piece of paper. Data
 
 By going through these steps of data transformation, we can take messy and disorganized data and turn it into a clean, organized, and understandable format. This makes it easier for us to discover insights, identify patterns, and make informed decisions based on the information we have.
 
-## 30 Days Challenge
+## 30 Days Power Query Challenge
 
 I am excited to participate in the upcoming 30-day Power Query Challenge, where I will showcase my expertise in data analytics and transformation. Throughout the challenge, I will be diligently working on optimizing data manipulation processes using advanced Query Folding techniques.
 
